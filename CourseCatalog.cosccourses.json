@@ -1,0 +1,324 @@
+[{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7ba"
+  },
+  "prefix": "COSC",
+  "course_number": "101",
+  "course_name": "Computer Literacy",
+  "description": "An introductory course covering basic computer concepts, including hardware, software, and essential skills for using computer applications."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7bb"
+  },
+  "prefix": "COSC",
+  "course_number": "105",
+  "course_name": "Fundamentals of Computer Science",
+  "description": "Introduction to fundamental concepts of computer science, including algorithms, problem-solving techniques, and computational thinking."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7bc"
+  },
+  "prefix": "COSC",
+  "course_number": "110",
+  "course_name": "Problem Solving and Structured Programming",
+  "description": "Introduction to structured programming techniques, emphasizing problem-solving methodologies using a high-level programming language."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7bd"
+  },
+  "prefix": "COSC",
+  "course_number": "143",
+  "course_name": "Cyber Wellness",
+  "description": "Examines ethical, legal, and social issues related to cybersecurity and digital citizenship, promoting responsible behavior in online environments."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7be"
+  },
+  "prefix": "COSC",
+  "course_number": "210",
+  "course_name": "Object-Oriented and GUI Programming",
+  "description": "Focuses on object-oriented programming concepts and techniques for building graphical user interfaces (GUIs) using a modern programming language."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7bf"
+  },
+  "prefix": "COSC",
+  "course_number": "216",
+  "course_name": "Introduction to Cybersecurity",
+  "description": "Introduction to the principles and practices of cybersecurity, including threats, defenses, cryptography, and secure systems design."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7c0"
+  },
+  "prefix": "COSC",
+  "course_number": "220",
+  "course_name": "Enterprise Computing",
+  "description": "Examines the principles and technologies used in enterprise computing environments, including distributed systems, cloud computing, and virtualization."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7c1"
+  },
+  "prefix": "COSC",
+  "course_number": "300",
+  "course_name": "Computer Organization and Assembly Language",
+  "description": "Studies the organization of computer systems, including CPU architecture, memory management, and introduction to assembly language programming."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7c2"
+  },
+  "prefix": "COSC",
+  "course_number": "310",
+  "course_name": "Data Structures and Algorithms",
+  "description": "Covers fundamental data structures (lists, trees, graphs) and algorithms (sorting, searching, graph algorithms) used in computer science."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7c3"
+  },
+  "prefix": "COSC",
+  "course_number": "319",
+  "course_name": "Software Engineering Concepts",
+  "description": "Introduces software engineering principles and methodologies, including requirements analysis, design, implementation, testing, and maintenance."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7c4"
+  },
+  "prefix": "COSC",
+  "course_number": "341",
+  "course_name": "Introduction to Database Management Systems",
+  "description": "Introduction to database concepts, relational database management systems (RDBMS), SQL programming, and database design principles."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7c5"
+  },
+  "prefix": "COSC",
+  "course_number": "343",
+  "course_name": "Introduction to Numerical Methods",
+  "description": "Introduction to numerical methods for solving mathematical problems using computers, including interpolation, numerical integration, and solving linear equations."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7c6"
+  },
+  "prefix": "COSC",
+  "course_number": "345",
+  "course_name": "Computer Networks",
+  "description": "Covers the architecture, protocols, and technologies used in computer networks, including local area networks (LANs) and wide area networks (WANs)."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7c7"
+  },
+  "prefix": "COSC",
+  "course_number": "352",
+  "course_name": "LAN Design and Installation",
+  "description": "Focuses on the design, implementation, and management of local area networks (LANs), including network topology, protocols, and security."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7c8"
+  },
+  "prefix": "COSC",
+  "course_number": "355",
+  "course_name": "Computer Graphics",
+  "description": "Introduction to principles and techniques of computer graphics, including 2D and 3D graphics rendering, animation, and graphical user interfaces."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7c9"
+  },
+  "prefix": "COSC",
+  "course_number": "356",
+  "course_name": "Network Security",
+  "description": "Examines principles and practices of network security, including cryptography, secure protocols, intrusion detection/prevention, and network defense strategies."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7ca"
+  },
+  "prefix": "COSC",
+  "course_number": "362",
+  "course_name": "Unix Systems",
+  "description": "Introduction to Unix/Linux operating systems, including shell scripting, file systems, process management, and system administration."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7cb"
+  },
+  "prefix": "COSC",
+  "course_number": "365",
+  "course_name": "Web Application Development",
+  "description": "Covers web programming languages, frameworks, and technologies used to develop dynamic web applications, including client-server architecture and database integration."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7cc"
+  },
+  "prefix": "COSC",
+  "course_number": "380",
+  "course_name": "Seminar on the Computer Profession and Ethics",
+  "description": "Examines ethical issues, professional responsibilities, and societal impacts related to the field of computer science and information technology."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7cd"
+  },
+  "prefix": "COSC",
+  "course_number": "405",
+  "course_name": "Artificial Intelligence",
+  "description": "Introduction to artificial intelligence (AI) concepts, including problem-solving methods, knowledge representation, machine learning, and AI applications."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7ce"
+  },
+  "prefix": "COSC",
+  "course_number": "410",
+  "course_name": "Computer Architecture",
+  "description": "Studies the architecture and organization of computer systems, including CPU design, memory hierarchy, input/output systems, and performance evaluation."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7cf"
+  },
+  "prefix": "COSC",
+  "course_number": "420",
+  "course_name": "Modern Programming Languages",
+  "description": "Examines advanced programming language concepts and paradigms, including functional programming, scripting languages, and language design principles."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7d0"
+  },
+  "prefix": "COSC",
+  "course_number": "424",
+  "course_name": "Compiler Construction",
+  "description": "Introduction to compiler design and implementation, including lexical analysis, syntax analysis, semantic analysis, code generation, and optimization."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7d1"
+  },
+  "prefix": "COSC",
+  "course_number": "427",
+  "course_name": "Introduction to Cryptography",
+  "description": "Introduction to cryptographic techniques and algorithms, including encryption, decryption, digital signatures, and cryptographic protocols."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7d2"
+  },
+  "prefix": "COSC",
+  "course_number": "429",
+  "course_name": "Digital Forensics",
+  "description": "Focuses on digital investigation techniques, including data recovery, forensic analysis, evidence handling, and legal aspects of digital forensics."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7d3"
+  },
+  "prefix": "COSC",
+  "course_number": "430",
+  "course_name": "Introduction to Systems Programming",
+  "description": "Introduction to systems programming concepts, including operating system interfaces, system calls, process management, and concurrent programming."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7d4"
+  },
+  "prefix": "COSC",
+  "course_number": "432",
+  "course_name": "Introduction to Operating Systems",
+  "description": "Introduction to operating system principles and functionalities, including process scheduling, memory management, file systems, and system security."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7d5"
+  },
+  "prefix": "COSC",
+  "course_number": "454",
+  "course_name": "Information Assurance Administration",
+  "description": "Examines principles and practices of information assurance, including risk assessment, security policies, access controls, and secure system administration."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7d6"
+  },
+  "prefix": "COSC",
+  "course_number": "460",
+  "course_name": "Theory of Computation",
+  "description": "Examines formal models of computation, including automata theory, formal languages, computability, and complexity theory."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7d7"
+  },
+  "prefix": "COSC",
+  "course_number": "465",
+  "course_name": "Web Services",
+  "description": "Focuses on designing, implementing, and deploying web services, including service-oriented architectures (SOA), APIs, and interoperability standards."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7d8"
+  },
+  "prefix": "COSC",
+  "course_number": "471",
+  "course_name": "Cloud Computing",
+  "description": "Examines cloud computing architectures, services, deployment models, and management tools, including virtualization, scalability, and security."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7d9"
+  },
+  "prefix": "COSC",
+  "course_number": "473",
+  "course_name": "Software Engineering Practice",
+  "description": "Focuses on software development methodologies, including agile practices, project management, team collaboration, and software quality assurance."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7da"
+  },
+  "prefix": "COSC",
+  "course_number": "480",
+  "course_name": "Seminar on Technical Topics",
+  "description": "Seminar course covering advanced technical topics in computer science and related fields, including current research trends and emerging technologies."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7db"
+  },
+  "prefix": "COSC",
+  "course_number": "482",
+  "course_name": "Independent Study",
+  "description": "Provides students with the opportunity to pursue an independent research project under the guidance of a faculty advisor, culminating in a written report or presentation."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7dc"
+  },
+  "prefix": "COSC",
+  "course_number": "492",
+  "course_name": "Internship in Management Information Systems",
+  "description": "Provides practical experience in applying management information systems (MIS) principles and practices in a professional work setting."
+},
+{
+  "_id": {
+    "$oid": "669fc7b073519651986ab7dd"
+  },
+  "prefix": "COSC",
+  "course_number": "493",
+  "course_name": "Internship in Computer Science",
+  "description": "Provides practical experience in applying computer science principles and techniques in a professional work setting."
+}]
