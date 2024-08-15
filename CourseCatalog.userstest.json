@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "66b2be2ccb67013a318dc1a0"
+  },
+  "name": "Devin Dolla",
+  "email": "dmd@gmail.com",
+  "address": "address",
+  "friendRequestsSent": [],
+  "friendRequestsReceived": [],
+  "friends": [],
+  "courses": []
+},
+{
+  "_id": {
+    "$oid": "66b2c25e9075c9cbdd31fa9c"
+  },
+  "name": "John Doe",
+  "email": "john@gmail.com",
+  "address": "USA",
+  "friendRequestsSent": [],
+  "friendRequestsReceived": [],
+  "friends": [],
+  "courses": []
+},
+{
+  "_id": {
+    "$oid": "66b2c2899075c9cbdd31faa1"
+  },
+  "name": "John Dope",
+  "email": "johndope@gmail.com",
+  "address": "USA",
+  "friendRequestsSent": [],
+  "friendRequestsReceived": [],
+  "friends": [],
+  "courses": []
+},
+{
+  "_id": {
+    "$oid": "66b2c6d9975a04163012466e"
+  },
+  "name": "John",
+  "email": "jd@gmail.com",
+  "address": "USA",
+  "friendRequestsSent": [],
+  "friendRequestsReceived": [],
+  "friends": [],
+  "courses": []
+}]
